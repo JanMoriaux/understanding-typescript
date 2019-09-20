@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    // "noEmitOnError": true,
+    // "strict": true,
+    "noImplicitAny": false,
+    "strictNullChecks": false,
+    "sourceMap": false,
+    "noUnusedParameters": true,
+    "experimentalDecorators": true
+  },
+  "exclude": ["node_modules"]
+}

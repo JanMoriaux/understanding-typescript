@@ -1,0 +1,13 @@
+let string = "Max";
+let number = 27;
+// myName = 30;
+let anything;
+anything = 33;
+
+function controlMe(isTrue: boolean, somethingElse: boolean) {
+  let result: number;
+  if (isTrue) {
+    result = 12;
+  }
+  return result;
+}
